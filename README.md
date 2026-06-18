@@ -115,6 +115,4 @@ To build a technical portfolio that shows real projects, product thinking, clear
 ## Contacto / Contact
 
 - GitHub: https://github.com/fertenca
-- LinkedIn: www.linkedin.com/in/fertenca
-
-- ---
+- LinkedIn: https://www.linkedin.com/in/fertenca/
