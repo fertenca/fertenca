@@ -42,7 +42,7 @@ A free web tool for creating a professional resume without requiring an account,
 - Proyecto construido con apoyo de agentes de IA / Built with support from AI agents
 
 Repo: https://github.com/fertenca/MiCVListo  
-App: https://micvlisto.pages.dev
+App: https://micvlisto.fertenca.com.ar/
 
 ---
 
