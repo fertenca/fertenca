@@ -5,6 +5,8 @@ Soy empleado bancario, estudiante de Licenciatura en Ciberdefensa y estoy constr
 
 I'm a banking professional and Cyberdefense student, building projects that combine productivity, automation, web development, and applied artificial intelligence.
 
+🌐 Portfolio: https://fertenca.com.ar/
+
 ---
 
 ## Sobre mí / About me
@@ -114,5 +116,6 @@ To build a technical portfolio that shows real projects, product thinking, clear
 
 ## Contacto / Contact
 
+- Portfolio: https://fertenca.com.ar/
 - GitHub: https://github.com/fertenca
 - LinkedIn: https://www.linkedin.com/in/fertenca/
